@@ -1,0 +1,28 @@
+name: Barhouma
+favicon: null
+layout_spectrum: 0.3201210666447878
+typography_spectrum: 0.5036394398193806
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9493323999922723
+  lightness: 0.16640525893308222
+  saturation: 0.8388137130532414
+  rhythmicContrast: 0.551214472623542
+purpose: []
